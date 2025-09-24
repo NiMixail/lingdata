@@ -1,4 +1,4 @@
-Выполненное первое ДЗ можно посмотреть [тут](https://nimixail.github.io/lingdata/mywebpage/)
+Выполненное первое ДЗ можно посмотреть [тут](https://nimixail.github.io/lingdata/mywebpage/).
 
 ### НИУ ВШЭ, ФИКЛ, 1 курс, курс "Лингвистические данные"
 
